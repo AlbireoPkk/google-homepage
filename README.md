@@ -1,0 +1,1 @@
+This project is about creating a copy of the google's main page.
